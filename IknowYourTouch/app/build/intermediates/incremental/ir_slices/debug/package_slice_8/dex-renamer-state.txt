@@ -1,0 +1,4 @@
+#Thu Feb 07 15:48:01 EET 2019
+base.0=C\:\\Users\\Watiwat\\IdeaProjects\\IknowYourTouch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Feb 07 15:48:01 EET 2019
+1.base=C\:\\Users\\Watiwat\\IdeaProjects\\IknowYourTouch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Watiwat\\IdeaProjects\\IknowYourTouch\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+1.path=classes.dex
